@@ -1,4 +1,4 @@
-# email-sender-with-quartz-spring-boot
+# Email Sending Scheduler using Quartz 
 Email Sender Spring Boot application with Quartz Schedular
 
 
